@@ -1,7 +1,7 @@
 import speech_recognition as sr
 import pyttsx3 as ptx
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyCTo6ikG2zYMgnqHBjNqIlfIweFMXniTtw")
+genai.configure(api_key="API HERE")
 model = genai.GenerativeModel('gemini-pro')
 recognizer = sr.Recognizer()
 engine = ptx.init()
