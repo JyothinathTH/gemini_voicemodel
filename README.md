@@ -6,10 +6,14 @@ Runs on Linux, Windows, Mac, Pi and many more.
 
 to run this you have to install some packages
 
-pip install pyttsx3
-pip install speechrecogintion
-pip install -q -U google-generativeai
-pip install --upgrade setuptools
+> pip install pyttsx3
+
+> pip install speechrecogintion
+
+> pip install -q -U google-generativeai
+>
+
+> pip install --upgrade setuptools
 
 run these codes on terminal.
 
