@@ -7,12 +7,9 @@ Runs on Linux, Windows, Mac, Pi and many more.
 to run this you have to install some packages
 
 > pip install pyttsx3
-
-> pip install speechrecogintion
-
+> pip install SpeechRecognition
 > pip install -q -U google-generativeai
->
-
+> python -m pip install pyaudio
 > pip install --upgrade setuptools
 
 run these codes on terminal.
